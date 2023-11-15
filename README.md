@@ -36,3 +36,6 @@ git push -f origin master
 ```
 
 ## HAPPY CODING
+
+if you have problem contact discord
+Ryldex#3501
